@@ -45,17 +45,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### Página principal
 ![preview](https://user-images.githubusercontent.com/70172954/148603245-c408c6e4-b517-4cdf-8439-8b367fb5ad04.png)
 
-
-#### Página principal (carrinho aberto)
-![](./.github/desktop-open-cart.png)
-<br>
+ 
+ 
+ 
 
 ### 📱 Mobile
 #### Página principal
-![](./.github/mobile.png)
+![mobile-open-cart](https://user-images.githubusercontent.com/70172954/148604271-8149286b-e056-4d11-ba8a-dc794562bcf2.png)
 
-#### Página principal (carrinho aberto)
-![](./.github/mobile-open-cart.png)
+ 
 
 
 ---
