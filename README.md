@@ -43,7 +43,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🖥 Desktop
 #### Página principal
-![](./.github/desktop.png)
+![preview](https://user-images.githubusercontent.com/70172954/148603245-c408c6e4-b517-4cdf-8439-8b367fb5ad04.png)
+
 
 #### Página principal (carrinho aberto)
 ![](./.github/desktop-open-cart.png)
